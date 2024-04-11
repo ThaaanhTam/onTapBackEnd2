@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Đay la file thuộc nhánh ôn tập 2
 nhanh ontap2
+=======
+Đay la file thuộc nhánh ôn tập 1
+day la nhanh ontap1 k phai on tap2
+>>>>>>> ontap2
