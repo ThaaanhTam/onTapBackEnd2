@@ -1,4 +1,10 @@
 day la git 
 đay là forder
+<<<<<<< HEAD
 
 2222222222
+=======
+pha lan 2
+>>>>>>> 17730682a96eea8c669edcf023507fb90aa4ff38
+
+hahahaha
