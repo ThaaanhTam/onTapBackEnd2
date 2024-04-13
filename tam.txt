@@ -1,0 +1,14 @@
+day la git 
+đay là forder
+<<<<<<< HEAD
+
+2222222222
+=======
+pha lan 2
+<<<<<<< HEAD
+>>>>>>> 17730682a96eea8c669edcf023507fb90aa4ff38
+
+hahahaha
+=======
+pha lan 3
+>>>>>>> e875e3c8942facec2826296e75e12beade908346
